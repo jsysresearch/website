@@ -2,13 +2,13 @@ area: System Security
 
 chairs:
 
-- name: Mathias Payer
-  affiliation: EPFL
-  webpage: https://nebelwelt.net/
+- name: Stefan Brunthaler 
+  affiliation: Code Research Institute
+  webpage: https://www.unibw.de/ucsrl-en/
   email: mathias.payer@nebelwelt.net
-  orcid: 0000-0001-5054-7547
-  twitter: gannimo
-  from: 2022
+  orcid: 0000-0001-9766-4871
+  twitter: stbrunthaler
+  from: 2023
   until: 0
 
 members:
