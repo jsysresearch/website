@@ -1,15 +1,22 @@
 area: System Security
 
 chairs:
-
-- name: Stefan Brunthaler 
-  affiliation: Code Research Institute
-  webpage: https://www.unibw.de/ucsrl-en/
-  email: mathias.payer@nebelwelt.net
+- name: Stefan Brunthaler
+  affiliation: Universität der Bundeswehr München
+  webpage: https://www.unibw.de/code/im-profil/professuren/univ-prof-dr-stefan-brunthaler
   orcid: 0000-0001-9766-4871
   twitter: stbrunthaler
-  from: 2023
+  from: 2022
   until: 0
+
+- name: Mathias Payer
+  affiliation: EPFL
+  webpage: https://nebelwelt.net/
+  email: mathias.payer@nebelwelt.net
+  orcid: 0000-0001-5054-7547
+  twitter: gannimo
+  from: 2022
+  until: 2023
 
 members:
 
