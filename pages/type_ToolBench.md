@@ -31,6 +31,5 @@ Desk Rejections:
 
 Guideline for authors:
 
-- Prefix the title of these papers with “Tool:” or “Benchmark:”
 - Check the Tool or Benchmark checkbox on the submission form to flag them for the review process
 - Please provide a link to the open-source tool/benchmark

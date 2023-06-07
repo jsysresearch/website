@@ -33,5 +33,4 @@ Desk Rejections:
 
 Guideline for authors:
 
-- Prefix the title of these papers with “SoK:”
 - check the SoK checkbox on the submission form to flag them for the review process.

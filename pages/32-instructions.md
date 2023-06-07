@@ -73,7 +73,7 @@ In case authors are unsure if or how they should address a given point from the 
 
 > Congratulations on getting your work accepted to JSys!
 
-For the final version of the PDF, please use the `jsys_camera_ready.tex` [template](https://github.com/jsysresearch/template). Please note that the final version should use the `jsys_camera_ready` package (`jsys_camera_ready.tex` does this by default). The final version should also include the authors and their affiliation. We strongly encourage including ORCIDs.
+For the final version of the PDF, please use the `jsys_camera_ready.tex` [template](https://github.com/jsysresearch/template). Please note that the final version should use the `jsys_camera_ready` package (`jsys_camera_ready.tex` does this by default) and that the title should not be prefixed with the paper type. The final version should also include the authors and their affiliation. We strongly encourage including ORCIDs.
 
 The final version should be uploaded using the "Final version" button on OpenReview. Please leave a comment ("Official Comment" button) indicating that the final version has been uploaded (this is important to notify the Area Chair).
 

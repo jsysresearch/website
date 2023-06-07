@@ -19,5 +19,4 @@ Desk Rejections:
 
 Guideline for authors:
 
-- Prefix the title of these papers with “Solution:”
 - Check the Solution checkbox on the submission form to flag them for the review process

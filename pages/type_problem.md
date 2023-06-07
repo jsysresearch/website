@@ -20,5 +20,4 @@ Problem papers may be rejected for:
 
 Guideline for authors:
 
-- Prefix the title of these papers with “Problem:”
 - Check the Problem checkbox on the submission form to flag them for the review process
