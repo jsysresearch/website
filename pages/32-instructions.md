@@ -93,6 +93,11 @@ Different from traditional evaluations, note that the JSys Artifact Evaluation p
 
 Refer to the [Artifact Evaluation page](/artifact_evaluation) for details about the evaluation procedure, expectations, and tips for authors.
 
+### Referencing the Artefact
+
+The recommended method to reference an artifact is using a service like [Zenodo](https://about.zenodo.org/) to obtain a DOI and a persistent link.
+Zenodo interfaces directly with GitHub, the instructions can be found [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).
+
 ## Conflicts
 
 When submitting your paper to JSys, authors must provide information about their conflicts with reviewers on the editorial board.
