@@ -11,6 +11,15 @@ chairs:
   from: 2023
   until: 0
 
+- name: Sebastiano Miano
+  affiliation: Politecnico di Milano
+  webpage: https://sebymiano.github.io/
+  email: sebastiano.miano@polimi.it
+  orcid: 	0000-0002-1247-9640
+  twitter: "@sebymiano"
+  from: 2023
+  until: 0
+
 - name: Francis Yan
   affiliation: Microsoft Research
   webpage: https://francisyyan.org/
