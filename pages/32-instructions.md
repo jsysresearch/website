@@ -93,6 +93,15 @@ Different from traditional evaluations, note that the JSys Artifact Evaluation p
 
 Refer to the [Artifact Evaluation page](/artifact_evaluation) for details about the evaluation procedure, expectations, and tips for authors.
 
+### Referencing the Artefact
+
+JSys recommends authors to publish their artifacts publicly and link to them in the final version of the manuscripts.
+
+Unfortunately, links are volatile.
+Jsys recommends publishing artifacts in a data repository that offers persistent identifiers for data, such as [Zenodo](https://about.zenodo.org/).
+Authors can then include the Zenodo-provided DOI to link to their artifacts in a persistent matter, even if the artifact is later updated or moved.
+Zenodo interfaces directly with GitHub, the instructions can be found [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).
+
 ## Conflicts
 
 When submitting your paper to JSys, authors must provide information about their conflicts with reviewers on the editorial board.
