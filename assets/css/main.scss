@@ -21,9 +21,10 @@ $link-color: #000000;
 $text-color: rgb(70, 70, 70);
 $primary-color: $green;
 $primary-color-light:#baefb6; 
+$link-color-hover: $primary-color;
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 // Not sure how to rename
