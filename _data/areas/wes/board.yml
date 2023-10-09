@@ -2,6 +2,14 @@ area: Wireless Embedded Systems
 
 chairs:
 
+- name: Michael Baddeley
+  affiliation: Technology Innovation Institute
+  webpage: https://michaelbaddeley.com/
+  orcid: 0000-0002-9202-8582
+  twitter: 
+  from: 2023
+  until: 0
+
 - name: Carlo Alberto Boano
   affiliation: Tu Graz
   webpage: http://www.carloalbertoboano.com/
@@ -9,7 +17,7 @@ chairs:
   orcid: 0000-0001-7647-3734
   twitter: 
   from: 2021
-  until: 0
+  until: 2023
 
 - name: Pat Pannuto
   affiliation: University of California San Diego
@@ -25,10 +33,10 @@ members:
 - name: Michael Baddeley
   affiliation: Technology Innovation Institute
   webpage: https://michaelbaddeley.com/
-  orcid: 
+  orcid: 0000-0002-9202-8582
   twitter: 
   from: 2021
-  until: 0
+  until: 2023
 
 - name: Matteo Ceriotti Zella
   affiliation: Niederrhein University of Applied Sciences
