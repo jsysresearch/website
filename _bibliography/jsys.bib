@@ -282,3 +282,40 @@
   langid = {english},
   review_url = {https://openreview.net/forum?id=hj77eOQNIrx}
 }
+
+@article{2023-10-31-hauserTool,
+  type = {Tools/{{Benchmark}}},
+  ids = {Tool_Extracting_Hardware_Descriptions},
+  title = {Automatically {{Extracting Hardware Descriptions}} from {{PDF Technical Documentation}}},
+  author = {Hauser, Niklas and Pennekamp, Jan},
+  year = {2023},
+  journal = {Journal of Systems Research},
+  volume = {3},
+  number = {1},
+  doi = {10.5070/SR33162446},
+  url = {https://escholarship.org/uc/item/32z0068j},
+  urldate = {2023-10-31},
+  abstract = {The ever-increasing variety of microcontrollers aggravatesthe challenge of porting embedded software to new devicesthrough much manual work, whereas code generators can beused only in special cases. Moreover, only little technical documentation for these devices is available in machine-readableformats that could facilitate automating porting efforts. Instead, the bulk of documentation comes as print-orientedPDFs. We hence identify a strong need for a processor toaccess the PDFs and extract their data with a high quality toimprove the code generation for embedded software.In this paper, we design and implement a modular processor for extracting detailed datasets from PDF files containing technical documentation using deterministic table processing for thousands of microcontrollers. Namely, we systematically extract device identifiers, interrupt tables, package and pinouts, pin functions, and register maps. In our evaluation, we compare the documentation from STMicro againstexisting machine-readable sources. Our results show thatour processor matches 96.5 \% of almost 6 million referencedata points, and we further discuss identified issues in bothsources. Hence, our tool yields very accurate data with onlylimited manual effort and can enable and enhance a significant amount of existing and new code generation use cases inthe embedded software domain that are currently limited by alack of machine-readable data sources.},
+  area = {Computer Architecture},
+  artifacts_url = {https://github.com/salkinium/pdf-data-extraction-jsys-artifact},
+  langid = {english},
+  review_url = {https://openreview.net/forum?id=yEobnHpBzh}
+}
+
+@article{2023-10-31-lambertsSoK,
+  type = {{{SoK}}},
+  ids = {SoK_Intrusion_Detection},
+  title = {Evaluations in {{Industrial Intrusion Detection Research}}},
+  author = {Lamberts, Olav and Wolsing, Konrad and Wagner, Eric and Pennekamp, Jan and Bauer, Jan and Wehrle, Klaus and Henze, Martin},
+  year = {2023},
+  journal = {Journal of Systems Research},
+  volume = {3},
+  number = {1},
+  doi = {10.5070/SR33162445},
+  url = {https://escholarship.org/uc/item/43t0z18q},
+  urldate = {2023-10-31},
+  abstract = {Industrial systems are increasingly threatened by cyberattackswith potentially disastrous consequences. To counter suchattacks, industrial intrusion detection systems strive to timelyuncover even the most sophisticated breaches. Due to its criticality for society, this fast-growing field attracts researchersfrom diverse backgrounds, resulting in 130 new detectionapproaches in 2021 alone. This huge momentum facilitatesthe exploration of diverse promising paths but likewise risksfragmenting the research landscape and burying promisingprogress. Consequently, it needs sound and comprehensibleevaluations to mitigate this risk and catalyze efforts into sustainable scientific progress with real-world applicability. Inthis paper, we therefore systematically analyze the evaluationmethodologies of this field to understand the current stateof industrial intrusion detection research. Our analysis of609 publications shows that the rapid growth of this researchfield has positive and negative consequences. While we observe an increased use of public datasets, publications stillonly evaluate 1.3 datasets on average, and frequently usedbenchmarking metrics are ambiguous. At the same time, theadoption of newly developed benchmarking metrics sees littleadvancement. Finally, our systematic analysis enables us toprovide actionable recommendations for all actors involvedand thus bring the entire research field forward.},
+  area = {Real-time and Cyber-physical Systems},
+  langid = {english},
+  review_url = {https://openreview.net/forum?id=P6tKWm9VpT}
+}
