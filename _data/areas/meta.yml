@@ -15,7 +15,7 @@ area:
 
 - title: Streaming Systems
   id: streaming
-  active: 1
+  active: 0
 
 - title: Systems for ML and ML for systems
   id: sysML_MLsys
@@ -27,7 +27,7 @@ area:
 
 - title: Data Science and Reproducibility
   id: dataRepro
-  active: 1
+  active: 0
 
 - title: Serverless Systems
   id: serverless
