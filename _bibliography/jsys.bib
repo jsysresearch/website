@@ -319,3 +319,21 @@
   langid = {english},
   review_url = {https://openreview.net/forum?id=P6tKWm9VpT}
 }
+
+@article{2024-04-15-ghafouriSolution,
+  type = {Solution},
+  ids = {Sol_Inference_Pipeline_Adaptation},
+  title = {IPA: {{Inference Pipeline Adaptation}} to achieve high accuracy and cost-efficiency},
+  author = {Ghafouri, Saeid and Razavi, Kamran and Salmani, Mehran and Sanaee, Alireza and Botran, Tania Lorido and Wang, Lin and Doyle, Joseph and Jamshidi, Pooyan },
+  year = {2024},
+  journal = {Journal of Systems Research},
+  volume = {4},
+  number = {1},
+  doi = {10.5070/SR34163500},
+  url = {https://escholarship.org/uc/item/2p0805dq},
+  urldate = {2024-04-15},
+  abstract = {Efficiently optimizing multi-model inference pipelines for fast, accurate, and cost-effective inference is a crucial challenge in machine learning production systems, given their tight end-to-end latency requirements. To simplify the exploration of the vast and intricate trade-off space of latency, accuracy, and cost in inference pipelines, providers frequently opt to consider one of them. However, the challenge lies in reconciling latency, accuracy, and cost trade-offs. To address this challenge and propose a solution to efficiently manage model variants in inference pipelines, we present IPA, an online deep learning Inference Pipeline Adaptation system that efficiently leverages model variants for each deep learning task. Model variants are different versions of pre-trained models for the same deep learning task with variations in resource requirements, latency, and accuracy. IPA dynamically configures batch size, replication, and model variants to optimize accuracy, minimize costs, and meet user-defined latency Service Level Agreements (SLAs) using Integer Programming. It supports multi-objective settings for achieving different trade-offs between accuracy and cost objectives while remaining adaptable to varying workloads and dynamic traffic patterns. Navigating a wider variety of configurations allows IPA to achieve better trade-offs between cost and accuracy objectives compared to existing methods. Extensive experiments in a Kubernetes implementation with five real-world inference pipelines demonstrate that IPA improves end-to-end accuracy by up to 21% with a minimal cost increase. The code and data for replications are available at https://github.com/reconfigurable-ml-pipeline/ipa.},
+  area = {Systems for ML and ML for systems},
+  langid = {english},
+  review_url = {https://openreview.net/forum?id=0MZqqVf8uU}
+}
