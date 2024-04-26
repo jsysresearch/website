@@ -3,6 +3,10 @@ permalink: /read
 toc: false
 ---
 
+# Volume 4 (2024)
+
+{% bibliography --query @*[volume=4] %}
+
 # Volume 3 (2023)
 
 {% bibliography --query @*[volume=3] %}
