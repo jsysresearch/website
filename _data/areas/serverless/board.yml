@@ -87,7 +87,7 @@ members:
   until: 0
 
 - name: Noman Bashir
-  affiliation: University of Massachusetts Amherst
+  affiliation: Massachusetts Institute of Technology
   webpage: https://noman-bashir.github.io/
   orcid: 
   twitter: 
