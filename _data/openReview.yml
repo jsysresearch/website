@@ -1,12 +1,22 @@
 forums:
 
-- title: May 2024 - Paper 
+- title: August 2024 - Paper
   open: 1
+  show: 1
+  url: https://openreview.net/group?id=JSYS/2024/August_Papers
+
+- title: August 2024 - Artifact
+  open: 1
+  show: 1
+  url: https://openreview.net/group?id=JSYS/2024/August_Artifacts
+
+- title: May 2024 - Paper
+  open: 0
   show: 1
   url: https://openreview.net/group?id=JSYS/2024/May_Papers
 
-- title: May 2024 - Artifact 
-  open: 1
+- title: May 2024 - Artifact
+  open: 0
   show: 1
   url: https://openreview.net/group?id=JSYS/2024/May_Artifacts
 
@@ -22,12 +32,12 @@ forums:
 
 - title: Aug 2023 - Paper 
   open: 0
-  show: 1
+  show: 0
   url: https://openreview.net/group?id=JSYS/2023/Aug_Papers
 
 - title: Aug 2023 - Artifact 
   open: 0
-  show: 1
+  show: 0
   url: https://openreview.net/group?id=JSYS/2023/Aug_Artifacts
     
 - title: May 2023 - Paper 
