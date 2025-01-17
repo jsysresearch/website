@@ -28,7 +28,6 @@ The [Artifact Evaluation Board](/cfp_artifacts/) is chaired by
 {% for chair in site.data.areas.artifacts.board.chairs %}
   - [{{ chair.name}}]({{chair.webpage}}), {{chair.affiliation}}{% endfor %}
 
-
 ## Journal Management
 
 ### Editors-in-Chief
@@ -52,6 +51,13 @@ The [Artifact Evaluation Board](/cfp_artifacts/) is chaired by
 
 {% for person in publicity %}
 - [{{ person.name}}]({{person.webpage}}), {{person.affiliation}}{% endfor %}
+
+### Former members
+
+{% assign alumni = site.data.management.alumni | sort: "until" | reverse %}
+
+{% for person in alumni %}
+- [{{ person.name}}]({{person.webpage}}), {{person.role}} until {{person.until}}{% endfor %}
 
 ## Co-Founders
 

@@ -9,22 +9,15 @@ eic:
   orcid: 0000-0003-4915-6738
   twitter: vj_chidambaram
 
-- name: Romain Jacob
-  affiliation: ETH Zurich
-  webpage: https://www.romainjacob.net/
-  email: jacobr@ethz.ch
-  orcid: 0000-0002-2218-5750
-  twitter: RJacobPartner
-
+- name: Ahmed Saeed
+  affiliation: Georgia Tech
+  webpage: https://faculty.cc.gatech.edu/~amsmti3/
+  email: asaeed@cc.gatech.edu
+  orcid: 0000-0003-0498-0854
+  twitter: "@ahmad_saeed"
+  
 assistants:
 
-- name: Vishwanath Seshagiri
-  affiliation: Emory University
-  webpage: https://vishwanath1306.github.io/
-  email: vseshag@emory.edu
-  orcid: 0000-0001-7466-4369
-  twitter: __vishwanath__
-    
 - name: Suyash Gupta
   affiliation: UC Berkeley
   webpage: https://gupta-suyash.github.io/
@@ -38,15 +31,6 @@ assistants:
   email: charly.castes@epfl.ch
   orcid: 
   twitter: CharlyCastes
-
-alumni:
-        
-- name: Madelon Hulsebos
-  affiliation: University of Amsterdam
-  webpage: https://madelonhulsebos.github.io
-  email: m.hulsebos@uva.nl
-  orcid: 0000-0002-0949-7290
-  twitter: MadelonHulsebos
 
 publicity:
 
@@ -63,6 +47,34 @@ publicity:
   email: r.deviti@gmail.com
   orcid: 
   twitter: rdeviti
+
+alumni:
+  - name: Madelon Hulsebos
+    affiliation: University of Amsterdam
+    webpage: https://madelonhulsebos.github.io
+    email: m.hulsebos@uva.nl
+    orcid: 0000-0002-0949-7290
+    twitter: MadelonHulsebos
+    role: Assistant editor
+    until: 2022
+
+  - name: Vishwanath Seshagiri
+    affiliation: Emory University
+    webpage: https://vishwanath1306.github.io/
+    email: vseshag@emory.edu
+    orcid: 0000-0001-7466-4369
+    twitter: __vishwanath__
+    role: Assistant editor
+    until: 2023
+
+  - name: Romain Jacob
+    affiliation: ETH Zurich
+    webpage: https://www.romainjacob.net/
+    email: jacobr@ethz.ch
+    orcid: 0000-0002-2218-5750
+    twitter: RJacobPartner
+    role: Editor-in-Chief
+    until: 2024
 
 # - name: 
 #   affiliation: 
