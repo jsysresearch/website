@@ -64,3 +64,24 @@ The [Artifact Evaluation Board](/cfp_artifacts/) is chaired by
 {% for member in site.data.co-founders.list %}- [{{ member.name}}]({{member.webpage}})  
     [<i class="fab fa-orcid"></i>   &nbsp; {{member.orcid}}](https://orcid.org/{{member.orcid}})  
 {% endfor %}
+
+## Call for Area Chairs
+
+JSys is actively looking for area chairs in the following areas:
+- [Systems for ML and ML for systems](/cfp_sysML_MLsys/)
+- Programming Languages (not currently active)
+
+To apply, please send an email to editors@jsys.org with the following:
+- The Area you would like to chair
+- Your CV
+- A list of 5 potential reviewers for the area who you know personally
+
+In addition to these areas, we also welcome area chairs for new areas.
+To make the case for a new area, please email the editors at editors@jsys.org.
+
+## Call for Reviewers
+
+JSys is actively looking for reviewers.
+Reviewers can be both experienced members of the systems community or students.
+
+To apply, please send an email with your CV to the relevant area chair with editors@jsys.org in copy.
