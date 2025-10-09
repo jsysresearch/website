@@ -1,13 +1,20 @@
 area: Systems for ML and ML for systems
 
 chairs:
+- name: Vijay Chidambaram
+  affiliation: University of Texas at Austin
+  webpage: https://www.cs.utexas.edu/~vijay/
+  orcid: 0000-0003-4915-6738
+  from: 2025
+  until: 0
+
 - name: Amir H. Payberah
   affiliation: KTH Royal Institute of Technology
   webpage: https://payberah.github.io/
   orcid: 
   twitter: apayberah
   from: 2022
-  until: 0
+  until: 2025
   
 - name: Neeraja J. Yadwadkar
   affiliation: Stanford University
