@@ -9,21 +9,14 @@ eic:
   orcid: 0000-0003-4915-6738
   twitter: vj_chidambaram
 
-- name: Ahmed Saeed
-  affiliation: Georgia Tech
-  webpage: https://faculty.cc.gatech.edu/~amsmti3/
-  email: asaeed@cc.gatech.edu
-  orcid: 0000-0003-0498-0854
-  twitter: "ahmad_saeed"
-
-assistants:
-
 - name: Suyash Gupta
-  affiliation: UC Berkeley
+  affiliation: University of Oregon
   webpage: https://gupta-suyash.github.io/
   email: suyash.gupta@berkeley.edu
-  orcid: 
+  orcid: 0000-0002-3240-1840
   twitter: suyash_sg
+
+assistants:
 
 - name: Charly Castes
   affiliation: EPFL
@@ -31,6 +24,13 @@ assistants:
   email: charly.castes@epfl.ch
   orcid: 
   twitter: CharlyCastes
+
+- name: Nihal Balivada
+  affiliation: University of Oregon
+  webpage: https://nihal2704.github.io/Portfolio/
+  email: nihalbalivada@gmail.com
+  orcid: 
+  twitter:
 
 publicity:
 
@@ -75,6 +75,15 @@ alumni:
     twitter: RJacobPartner
     role: Editor-in-Chief
     until: 2024
+
+  - name: Ahmed Saeed
+    affiliation: Georgia Tech
+    webpage: https://faculty.cc.gatech.edu/~amsmti3/
+    email: asaeed@cc.gatech.edu
+    orcid: 0000-0003-0498-0854
+    twitter: "ahmad_saeed"
+    role: Editor-in-Chief
+    until: 2025
 
 # - name: 
 #   affiliation: 
