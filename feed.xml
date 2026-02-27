@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>JSys</title>
+		<description>Journal of Systems Research</description>
+		<link>http://jsys.org</link>
+		<atom:link href="http://jsys.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Official creation</title>
+				<description>&lt;p&gt;It’s our great pleasure to announce the creation of Re&lt;strong&gt;Science&lt;/strong&gt; which is a
+peer-reviewed journal that targets computational research and encourages the
+explicit replication of already published research, promoting new and
+open-source implementations in order to ensure that the original research is
+reproducible.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+				<link>http://jsys.org/news/2015/09/01/journal-start.html</link>
+				<guid isPermaLink="true">http://jsys.org/news/2015/09/01/journal-start.html</guid>
+			</item>
+		
+	</channel>
+</rss>
