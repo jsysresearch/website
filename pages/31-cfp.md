@@ -54,6 +54,7 @@ For each deadline, reviews will be available within 1.5 months.
 For example, for a work submitted by March 1st, JSys commits to provide initial reviews by April 15th.
 
 Recent deadlines and their submission portals:
+> Note: due to a migration to a new publication platform the March 1st 2026 deadline will be extended by a week to March 8th.
 {% for item in site.data.openReview.forums %}{% if item.show == 1 %}
 - [{{ item.title}}]({{item.url}}) {% if item.open == 0 %} <span class="text-muted">(closed)</span>{% endif %} {% endif %}{% endfor %}
 
