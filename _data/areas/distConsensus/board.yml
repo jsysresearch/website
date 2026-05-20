@@ -71,14 +71,6 @@ members:
   from: 2021
   until: 0
 
-- name: Ling Ren
-  affiliation: UIUC
-  webpage: https://sites.google.com/view/renling
-  orcid: 
-  twitter: 
-  from: 2021
-  until: 0
-
 - name: Denis Rystsov
   affiliation: Vectorized, Inc
   webpage: http://rystsov.info/
