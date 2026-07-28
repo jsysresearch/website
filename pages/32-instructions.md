@@ -10,14 +10,14 @@ This page provides detailed instructions for authors submitting to JSys.
 
 ## Communication via OpenReview
 
-JSys uses [OpenReview](https://openreview.net/) for submission, review, revision, and comments.
+JSys uses [eScholarship](https://escholarship.org/uc/jsys) for paper submission, review, revision, and comments.
 
-The area chairs and reviewers will communicate with authors via OpenReview comments. Please ensure that you receive emails from the OpenReview system. We recommend authors to sign in regurlarly in OpenReview to ensure they do not miss an important notification.
+The area chairs and reviewers will communicate with authors via eScholarship comments. Please ensure that you receive emails from the eScholarship system. We recommend authors to sign in regurlarly in eScholarship to ensure they do not miss an important notification.
 
 ## Submitting a New Paper
 
-JSys uses [OpenReview](https://openreview.net/) for submitting and reviewing papers. Papers should be submitted electronically as PDF.
-Papers and artifacts are reviewed separately.
+JSys uses [eScholarship](https://escholarship.org/uc/jsys) for submitting and reviewing papers. Papers should be submitted electronically as PDF.
+Artifacts are reviewed separately on [OpenReview](https://openreview.net/).
 
 JSys opens new submission forums for each deadline. Here are the links for recent and upcoming deadlines.
 
