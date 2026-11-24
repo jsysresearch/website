@@ -10,6 +10,11 @@ The Journal of Systems Research (JSys) is a new journal covering the wide area o
 
 JSys is founded on its commitment to inclusiveness, transparency, and quality. These values are supported by the following journal policies.
 
+**We regret to inform you that JSys will be cease operations starting
+Jan 2027. The papers published in JSys will continue to be available at the
+[eScholarship website](https://escholarship.org/uc/jsys). We thank you for
+supporting JSys!** 
+
 <!-- ## 👐 Inclusiveness  -->
 ## <i class="fa-solid fa-hands-holding-circle"> </i> Inclusiveness
 
